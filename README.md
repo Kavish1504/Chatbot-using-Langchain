@@ -20,7 +20,7 @@ A simple conversational chatbot built with **LangChain**, **Groq (LLaMA 3)**, an
 chatbot/
 │
 ├── app.py          # Main Streamlit application
-├── .env            # API keys (do NOT commit this)
+├── .env            # API keys
 ├── .gitignore      # Ignores .env and other files
 └── requirements.txt
 ```
@@ -117,3 +117,4 @@ venv/
 ```
 
 ---
+
